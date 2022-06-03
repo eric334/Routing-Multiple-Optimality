@@ -1,3 +1,3 @@
 # Paper Reproduction of "Routing on Multiple Optimality Criteria"
-See Reproducing_Routing_on_Multiple_Optimality_Criteria.pdf
+[Reproducing_Routing_on_Multiple_Optimality_Criteria.pdf](https://github.com/eric334/Routing-Multiple-Optimality-Criteria-Reproduction/blob/main/Reproducing_Routing_on_Multiple_Optimality_Criteria.pdf)
 
